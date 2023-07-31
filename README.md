@@ -6,7 +6,7 @@
 
 ### HEY guys, I am Sathish Kumar
 - 🔭 I’m currently working as Assistant Professor :grin:
-- 🌱 I’m currently learning Pyhon .
+- 🌱 I’m currently learning Python .
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 💬 Ask me about anything, I am happy to help :smile:
 - ⚡ Fun fact:  :raised_hands:
