@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sathish Kumar</h1>
-<h3 align="center">Student at VIT, Vellore🌟.</h3>
+<h3 align="center">Studied at VIT, Vellore🌟.</h3>
 
 
 <img align="right" height="270px" alt="GIF" src="https://github.com/Jagan-Janakiraman/githubProfile_sources/blob/main/gifImages/EvilNextDevilfish-small.gif" />
