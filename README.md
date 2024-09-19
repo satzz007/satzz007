@@ -5,8 +5,8 @@
 <img align="right" height="270px" alt="GIF" src="https://github.com/Jagan-Janakiraman/githubProfile_sources/blob/main/gifImages/EvilNextDevilfish-small.gif" />
 
 ### HEY guys, I am Sathish Kumar
-- 🔭 I’m currently working as Assistant Professor :grin:
-- 🌱 I’m currently learning AWS .
+- 🔭 I’m currently working as Junior Technical Consultant in Encora Innovation Labs :grin:
+- 🌱 Certified in AWS and Microsoft Azure.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 💬 Ask me about anything, I am happy to help :smile:
 - ⚡ Fun fact:  :raised_hands:
